@@ -1,4 +1,4 @@
-"id","data_partida","data_chegada","linha","tempo_viagem","equipamento","dia_semana","partidaTimeStamp","qtdDiasAno","direcao","tipo_dia","chegadaTimeStamp","cod_id"
+"id","departure_date","arrival_date","line","travel_time","equipment","week_day","departureTimeStamp","qtyDaysYear","direction","day_type","arrivalTimeStamp","cod_id "
 "4704","2019-08-13 06:35:58","2019-08-13 07:32:58","125","3420","1353","TUE","1565688958000","225","1","1","1565692378000","1"
 "4705","2019-08-13 08:13:21","2019-08-13 09:01:48","125","2907","1353","TUE","1565694801000","225","1","1","1565697708000","2"
 "4706","2019-08-21 09:49:47","2019-08-21 10:45:05","125","3318","1353","WED","1566391787000","233","1","1","1566395105000","3"
